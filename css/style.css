@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    width: 100%;
+}
+
+
+.main-section {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+p {
+    color: grey;
+    line-height: 25px;
+    letter-spacing: 0.25px;
+    text-align: justify;
+}
+
+#connect {
+    margin-top: 25%;
+}
+
+
+
+.well {
+    width: 100%;
+    margin-top: 10%;
+    background-color: #666666;
+    text-align: center;
+}
